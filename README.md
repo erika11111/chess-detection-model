@@ -1,0 +1,1 @@
+# trained-chess-detection-model

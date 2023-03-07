@@ -1,0 +1,12 @@
+train: ../train_data/train/images/ # train images
+val: ../train_data/val/images/ # val images
+test: ../train_data/test/images/ # test images
+
+# Classes
+names:
+  0: Rikis
+  1: Karalius
+  2: Zirgas
+  3: Pestininkas
+  4: Valdove
+  5: Bokstas
